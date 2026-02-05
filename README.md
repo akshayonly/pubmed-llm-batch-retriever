@@ -17,7 +17,7 @@ A Python-based tool for efficiently fetching and organizing biomedical literatur
 - Literature reviews and systematic reviews
 - Training data preparation for biomedical NLP models
 - Research synthesis and meta-analysis
-- Feeding article batches to LLMs for analysis
+- Feeding article batches to LLMs for analysis (I use for NotebookLM)
 - Building domain-specific knowledge bases
 
 ## Key Capabilities

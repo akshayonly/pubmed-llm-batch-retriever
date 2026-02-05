@@ -31,5 +31,3 @@ A Python-based tool for efficiently fetching and organizing biomedical literatur
 ## License
 
 This project is licensed under CC BY-NC 4.0 - see the [LICENSE](LICENSE) file for details.
-
-**For commercial use**, please contact [your email] for permission.

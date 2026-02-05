@@ -27,17 +27,6 @@ A Python-based tool for efficiently fetching and organizing biomedical literatur
 - Handles large result sets (tested with 10,000+ articles)
 - Provides detailed logs and batch distribution statistics
 - Skips articles without abstracts automatically
-```
-
-### Tags/Keywords (for discoverability):
-```
-pubmed, bioinformatics, literature-mining, mesh, nlp, llm, research-automation, 
-biomedical-informatics, text-mining, ncbi, entrez, scientific-literature
-```
-
-### One-liner (for social media/quick reference):
-```
-Fetch & batch PubMed articles with token limits — built for LLM-powered literature analysis
 
 ## License
 
